@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # Bloomberg Industry Group Investigations PFAS Litigation Open Data
 
 ## Terms of Use
